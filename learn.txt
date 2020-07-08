@@ -1,2 +1,3 @@
 Hey, This is Dharani! 
-Let us begin learning the git.
+Let us begin learning the git, by committing the changes
+and check it out?
