@@ -1,1 +1,1 @@
-Second text file used for checking the status and diff.
+Second text file
