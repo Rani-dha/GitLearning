@@ -2,6 +2,7 @@
 ## Git & GitHub Learning
 
 **This Repository contains**
+__the following files__
 *learn.txt
 *first.txt
 *second.txt
