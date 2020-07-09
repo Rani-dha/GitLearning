@@ -1,7 +1,7 @@
 # Github_series
 ## Git & GitHub Learning
 
-** This Repository contains**
+**This Repository contains**
 
    *learn.txt
    *first.txt
