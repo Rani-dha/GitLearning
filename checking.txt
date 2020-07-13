@@ -1,0 +1,1 @@
+Checking whether it is possible to git commit before git add.
